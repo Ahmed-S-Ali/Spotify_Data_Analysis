@@ -156,5 +156,4 @@
 
 > [!NOTE]
 > **Database File:** [Link to the Database](https://www.kaggle.com/datasets/tonygordonjr/spotify-dataset-2023?select=spotify_data_12_20_2023.csv)
-
 > **Source:** [Kaggle](https://www.kaggle.com/) [![Kaggle Logo](./assets/kaggle.svg)](https://www.kaggle.com/)
