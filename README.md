@@ -21,10 +21,9 @@
 
 > [!IMPORTANT]
 >
-> <div style="text-align:center;">
-> 
+> <div align="center">
+>
 > [**Dashboard**](https://public.tableau.com/views/SpotifyInsights_17116210915230/SpotifyInsights?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link) [![Dashboard](./assets/Spotify%20Insights.png)](https://public.tableau.com/views/SpotifyInsights_17116210915230/SpotifyInsights?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
-> 
 > </div>
 
 
